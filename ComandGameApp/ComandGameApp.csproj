@@ -59,6 +59,7 @@
     </Compile>
     <Compile Include="DataAccess\Abstract\IDataRepository.cs" />
     <Compile Include="DataAccess\Concrete\TeamRepository.cs" />
+    <Compile Include="DataAccess\Util\DbHelper.cs" />
     <Compile Include="Entity\TeamList.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
